@@ -1,6 +1,6 @@
 def jumlahkan_dua_bilangan():
-    a = float(input("Masukkan bilangan pertama: "))
-    b = float(input("Masukkan bilangan kedua: "))
+    a = int(input("Masukkan bilangan pertama: "))
+    b = int(input("Masukkan bilangan kedua: "))
     hasil = a + b
     print("Hasil penjumlahan:", hasil)
 
